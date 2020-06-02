@@ -14,13 +14,13 @@ The test data contains 12,500 unlabeled images.
 
 Download the train.zip and test1.zip files, unzip them, and put the training data in (**./data/train/**) folder, and the testing data in the (**./data/test1/**) folder.
 
-## Notebooks
+### Notebooks
 
-**models.py** - A basic CNN (6-layer) 
-**training.py** - Script to prepocess the data, train and save the model.
-**Prediction.py** - Notebook to test the data
+**models.py** - A basic CNN (6-layer).  
+**training.py** - Script to prepocess the data, train and save the model.  
+**Prediction.py** - Notebook to test the data.  
 
 ## Further improvements (To do)
 
-1. Will try Transfer learning using any one of the pretrained architectures and finetune the model.
+1. Will try Transfer learning using any one of the pretrained architectures and finetune the model.  
 2. Instance Segementation using Mask-RCNN.
