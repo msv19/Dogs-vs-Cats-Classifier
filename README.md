@@ -17,10 +17,9 @@ Download the train.zip and test1.zip files, unzip them, and put the training dat
 ### Notebooks
 
 **models.py** - A basic CNN (6-layer).  
-**training.py** - Script to prepocess the data, train and save the model.  
-**Prediction.py** - Notebook to test the data.  
+**training.ipynb** - Script to prepocess the data, train and save the model.  
+**Prediction.ipynb** - Notebook to test the data.  
+**Transfer_Learning.ipynb** - Notebook in which pretrained MobileNetV2 architecture was used to build the classifier 
 
 ## Further improvements (To do)
-
-1. Will try Transfer learning using any one of the pretrained architectures and finetune the model.  
-2. Instance Segementation using Mask-RCNN.
+Instance Segementation using Mask-RCNN.
